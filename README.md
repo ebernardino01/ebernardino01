@@ -1,6 +1,6 @@
 👋 Eds
-- 👀 Backend Development (Python, C/C++ and more)
-- 🌱 Node, Vue.js (slowly but surely)
+- 👀 Backend Development (Python, Scripting, C/C++ and more)
+- 🌱 Node, Vue.js (planning to add)
 - 📫 @ebernardino01
 
 <!---
