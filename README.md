@@ -1,6 +1,6 @@
 👋 Eds
-- 😃 Aspiring Data Analyst
-- 👀 Specializing in Backend Web Development (Python, Scripting, C/C++ and more)
+- 😃 Aspiring Data Professional
+- 👀 Specializing in Backend Web Development (Python, SQL, Scripting, C/C++ and more)
 - 📫 @ebernardino01
 
 <!---
